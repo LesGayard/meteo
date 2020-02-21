@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Libs/okhttp-3.9.0.jar"/>
+	<classpathentry kind="lib" path="Libs/okio-2.0.0.jar"/>
+	<classpathentry kind="lib" path="Libs/kotlin-stdlib-common-1.2.60.jar"/>
+	<classpathentry kind="lib" path="Libs/kotlin-stdlib-1.2.60.jar"/>
+	<classpathentry kind="lib" path="Libs/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="Libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
